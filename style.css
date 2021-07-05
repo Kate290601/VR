@@ -366,7 +366,7 @@ and (max-width : 750px){ .showmobile { display: block; }}
     left: 0;
 }
 
-.button3{
+.button3 a{
     display: inline-block;
     color: black;
     font-size: 20px;
