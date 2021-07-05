@@ -366,4 +366,17 @@ and (max-width : 750px){ .showmobile { display: block; }}
     left: 0;
 }
 
-
+.button3{
+    display: inline-block;
+    color: black;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 8px 60px;
+    outline: none;
+    border-width: 2px 0;
+    border-style: solid none;
+    border-color: aqua;
+    border-radius: 6px;
+    background: aqua;
+    transition: 0.2s;
+}
