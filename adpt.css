@@ -1,0 +1,174 @@
+@media (max-width: 1000px)
+{
+    .center5 p
+    {
+        font-size: 20px;
+    }
+}
+@media (max-width: 650px) { .center3
+{
+    display: flex;
+    justify-content:flex-start;
+    flex-direction: column;
+    text-align: center;
+}
+}
+
+@media (max-width: 650px) { .image
+{
+    display: flex;
+    justify-content:center;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
+}
+@media (max-width: 650px) { .image img
+{
+    width: 100%;
+}
+}
+
+@media (max-width: 650px) { .center2 h2
+{
+    display: flex;
+    justify-content:flex-start;
+    flex-direction: column;
+    text-align: center;
+}
+}
+
+@media (max-width: 650px) { .center6 h2
+{
+    display: flex;
+    justify-content:flex-start;
+    flex-direction: column;
+    text-align: center;
+}
+}
+@media (max-width: 650px) { .brend
+{
+    display: flex;
+    justify-content:center;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
+}
+@media (max-width: 650px) { .brend a
+{
+   margin-top: 10px;
+}
+}
+@media (max-width: 650px) { .center33
+{
+    display: flex;
+    justify-content:center;
+    flex-direction: column;
+    align-items: center;
+}
+}
+
+@media (max-width: 650px) { .center3 img
+{
+    width: 33%;
+}
+}
+
+@media (max-width: 650px) { .center h1
+{
+    font-size: 35px;
+    width: 100%;
+   margin-right: 320px;
+}
+}
+
+@media (max-width: 650px) { .button
+{
+    font-size: 20px;
+    width: 100%;
+    margin-right: 320px;
+}
+}
+@media (max-width: 1280px)
+{
+    main
+    {
+        height: 580px;
+        margin: 0px;
+    }
+}
+
+@media (max-width: 720px) { .center4 h3
+{
+    font-size: 15px;
+
+}
+}
+@media (max-width: 670px) { .center4 h3
+{
+    font-size: 14px;
+
+}
+}
+
+@media (max-width: 650px) { .center4 h3
+{
+    font-size: 20px;
+
+}
+}
+@media (max-width:700px ) { .kk a{
+    display: none;
+}
+    
+}
+
+@media (max-width:700px ) { .kk img
+{
+    align-items: center;
+    text-align: center;
+    margin-left: 270px;
+}
+
+}
+
+@media (max-width:600px ) { .kk img
+{
+    align-items: center;
+    text-align: center;
+    margin-left: 210px;
+}
+
+}
+
+@media (max-width:520px ) { .kk img
+{
+    align-items: center;
+    text-align: center;
+    margin-left: 180px;
+}
+
+}
+@media (max-width:478px ) { .kk img
+{
+    align-items: center;
+    text-align: center;
+    margin-left: 150px;
+}
+
+}.
+@media (max-width:400px ) { .kk img
+{
+
+    margin-left: 10px;
+}
+
+}
+
+@media (max-width:700px ) {
+    a {
+        margin-left: 0;
+    }
+}
+
